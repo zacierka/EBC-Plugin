@@ -1,0 +1,7 @@
+name: Switchmod
+version: ${project.version}
+main: com.eboyclique.switchmod.Switchmod
+api-version: 1.16
+authors: [ Switch ]
+description: Plugin to interface with EBC discord and other assets
+website: eboyclique.com
