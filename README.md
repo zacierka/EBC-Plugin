@@ -5,7 +5,7 @@ Possible plugin variant for EBC Minecraft Modded Server ... TBD [1.7.4]
 #### Features will include:
 - [ ] User Authentication via discord bot
 - [ ]  User Stat Management
-- [ ]  RabbitMQ integration
+- [x]  RabbitMQ integration
 - [ ]  Custom Backup scripts
 - [ ] Custom Commands: /advert, /savegame, /discordmsgs, /discord, and many more
 
