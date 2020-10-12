@@ -1,4 +1,4 @@
-# EBoyClique Minecraft Plugin V1
+# EBoyClique Minecraft Plugin V1 (ON HOLD Due to Server Change)
 
 Dedicated Plugin for the EBC Minecraft Server [version: 1.16.X]
 Possible plugin variant for EBC Minecraft Modded Server ... TBD [1.7.4]
