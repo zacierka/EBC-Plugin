@@ -2,6 +2,7 @@
 
 Dedicated Plugin for the EBC Minecraft Server [version: 1.16.X]
 Possible plugin variant for EBC Minecraft Modded Server ... TBD [1.7.4]
+See [DiscordBot Repo](https://github.com/zacierka/EBC-Discordbot)
 #### Features will include:
 - [ ] User Authentication via discord bot
 - [ ]  User Stat Management
