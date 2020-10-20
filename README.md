@@ -1,7 +1,7 @@
 # EBoyClique Minecraft Plugin V1 (ON HOLD Due to Server Change)
 
 Dedicated Plugin for the EBC Minecraft Server [version: 1.16.X]
-Possible plugin variant for EBC Minecraft Modded Server ... TBD [1.7.4]
+Possible plugin variant for EBC Minecraft Modded Server ... TBD [1.12.2]
 See [DiscordBot Repo](https://github.com/zacierka/EBC-Discordbot)
 #### Features will include:
 - [ ] User Authentication via discord bot
